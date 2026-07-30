@@ -237,3 +237,8 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+<hr>
+<h3>Result:</h3>
+<hr>
+The A* Search algorithm was successfully implemented in Python and correctly found the optimal shortest path between the given start and goal nodes.
